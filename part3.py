@@ -20,4 +20,4 @@ number2 = int(input("Enter another number: "))
 print ("The sum of your numbers is", number1 + number2)
 #error 4: missing parentheses, error 5: capitalized N in number2
 print("Seven times your second number is", 7 * number2)
-#error 5: missing quotation marks, error 6: incorrect format for multiplication with 7(number2)
+#error 6: missing quotation marks, error 7: incorrect format for multiplication with 7(number2)
